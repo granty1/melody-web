@@ -1,7 +1,7 @@
 {
-    "name": "Minimal PWA",
-    "short_name": "PWA Demo",
-    "description": "The app that helps you understand PWA",
+    "name": "Melody",
+    "short_name": "Melody Index",
+    "description": "The app that helps you use melody",
     "display": "standalone",
     "start_url": "/",
     "theme_color": "#313131",
