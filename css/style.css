@@ -641,6 +641,7 @@ h1, h2, h3, h4, h5,
     max-width: 100%; }
   @media (max-width: 991.98px) {
     .img-absolute {
+      display: none;
       position: relative;
       top: auto;
       -webkit-transform: translateY(0%) translateX(0%);
